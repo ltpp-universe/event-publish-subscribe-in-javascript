@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeof define&&define.amd?define(["exports"],t):t((e="undefined"!=typeof globalThis?globalThis:e||self).EPS={})}(this,(function(e){"use strict";var t=new(function(){function e(){this.event_map=new Map}return e.prototype.add=function(e,t){void 0===t&&(t=function(){});var n=this.event_map.get(e);(null==n?void 0:n.length)?n.push(t):this.event_map.set(e,[t])},e}());e.event_listener=t}));
+//# sourceMappingURL=bundle.umd.js.map
