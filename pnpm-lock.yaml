@@ -9,25 +9,25 @@ importers:
   .:
     devDependencies:
       '@rollup/plugin-commonjs':
-        specifier: ^26.0.1
+        specifier: 26.0.1
         version: 26.0.1(rollup@4.21.0)
       '@rollup/plugin-node-resolve':
-        specifier: ^15.2.3
+        specifier: 15.2.3
         version: 15.2.3(rollup@4.21.0)
       '@rollup/plugin-terser':
-        specifier: ^0.4.4
+        specifier: 0.4.4
         version: 0.4.4(rollup@4.21.0)
       rollup:
-        specifier: ^4.21.0
+        specifier: 4.21.0
         version: 4.21.0
       rollup-plugin-typescript2:
-        specifier: ^0.36.0
+        specifier: 0.36.0
         version: 0.36.0(rollup@4.21.0)(typescript@5.5.4)
       ts-node:
-        specifier: ^10.9.2
+        specifier: 10.9.2
         version: 10.9.2(@types/node@22.5.0)(typescript@5.5.4)
       typescript:
-        specifier: ^5.5.4
+        specifier: 5.5.4
         version: 5.5.4
 
 packages:

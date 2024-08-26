@@ -18,12 +18,12 @@
   "license": "ISC",
   "description": "Event Publish-Subscribe in JavaScript",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^26.0.1",
-    "@rollup/plugin-node-resolve": "^15.2.3",
-    "@rollup/plugin-terser": "^0.4.4",
-    "rollup": "^4.21.0",
-    "rollup-plugin-typescript2": "^0.36.0",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.5.4"
+    "@rollup/plugin-commonjs": "26.0.1",
+    "@rollup/plugin-node-resolve": "15.2.3",
+    "@rollup/plugin-terser": "0.4.4",
+    "rollup": "4.21.0",
+    "rollup-plugin-typescript2": "0.36.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.5.4"
   }
 }
