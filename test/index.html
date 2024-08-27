@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>test</title>
+  </head>
+  <script type="module">
+    import { event_listener } from '../build/bundle.esm.js';
+    const fn = () => {
+      console.log(1);
+    };
+    event_listener.add('click', fn);
+    event_listener.add('click', () => {
+      console.log(2);
+    });
+    event_listener.add('click', fn);
+    event_listener.remove('click', fn);
+  </script>
+
+  <body></body>
+</html>

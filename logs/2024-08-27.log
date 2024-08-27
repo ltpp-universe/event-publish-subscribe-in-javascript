@@ -1,0 +1,721 @@
+[2024-08-27 21:41:48]
+Binding => localhost:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 0.0.0.0:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 127.0.0.1:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+
+
+
+[2024-08-27 21:41:48]
+Binding => localhost:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 0.0.0.0:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 127.0.0.1:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+
+
+
+[2024-08-27 21:41:48]
+Binding => localhost:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 0.0.0.0:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 127.0.0.1:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+
+
+
+[2024-08-27 21:41:48]
+Listening => 0.0.0.0:80
+
+
+[2024-08-27 21:41:48]
+Binding => localhost:80
+
+
+[2024-08-27 21:41:48]
+Binding => 0.0.0.0:80
+
+
+[2024-08-27 21:41:48]
+Binding => 127.0.0.1:80
+
+
+[2024-08-27 21:42:00]
+HttpRequest {
+    path: "/",
+    method: "GET",
+    headers: {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-mode": "navigate",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "sec-fetch-site": "none",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "host": "localhost",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "upgrade-insecure-requests": "1",
+        "connection": "keep-alive",
+        "sec-fetch-user": "?1",
+        "sec-fetch-dest": "document",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "cookie": "SameSite=Lax",
+    },
+    body: {},
+}
+
+[2024-08-27 21:42:00]
+Refuse load file => ./index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:42:00]
+Resource load fail => ./index.html
+
+
+[2024-08-27 21:42:10]
+HttpRequest {
+    path: "/test/index.html",
+    method: "GET",
+    headers: {
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-site": "none",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-dest": "document",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "connection": "keep-alive",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "host": "localhost",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "cookie": "SameSite=Lax",
+        "sec-fetch-mode": "navigate",
+    },
+    body: {},
+}
+
+[2024-08-27 21:42:10]
+Refuse load file => ./test/index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:42:10]
+Resource load fail => ./test/index.html
+
+
+[2024-08-27 21:42:31]
+HttpRequest {
+    path: "/test/index.html",
+    method: "GET",
+    headers: {
+        "host": "localhost",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "sec-fetch-user": "?1",
+        "connection": "keep-alive",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-dest": "document",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "sec-ch-ua-mobile": "?0",
+        "upgrade-insecure-requests": "1",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "cookie": "SameSite=Lax",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "sec-fetch-site": "none",
+        "sec-ch-ua-platform": "\"Windows\"",
+    },
+    body: {},
+}
+
+[2024-08-27 21:42:31]
+Refuse load file => ./test/index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:42:31]
+Resource load fail => ./test/index.html
+
+
+[2024-08-27 21:42:33]
+HttpRequest {
+    path: "/test/index.html",
+    method: "GET",
+    headers: {
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-mode": "navigate",
+        "cache-control": "max-age=0",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "sec-ch-ua-mobile": "?0",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "sec-fetch-user": "?1",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "sec-fetch-site": "none",
+        "connection": "keep-alive",
+        "cookie": "SameSite=Lax",
+        "host": "localhost",
+        "sec-fetch-dest": "document",
+    },
+    body: {},
+}
+
+[2024-08-27 21:42:33]
+Refuse load file => ./test/index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:42:33]
+Resource load fail => ./test/index.html
+
+
+[2024-08-27 21:42:46]
+HttpRequest {
+    path: "/index.html",
+    method: "GET",
+    headers: {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "connection": "keep-alive",
+        "host": "localhost",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "none",
+        "cookie": "SameSite=Lax",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "sec-fetch-dest": "document",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1",
+    },
+    body: {},
+}
+
+[2024-08-27 21:42:46]
+Refuse load file => ./index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:42:46]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:42:46]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:42:46]
+Resource load fail => ./index.html
+
+
+[2024-08-27 21:42:53]
+Binding => 0.0.0.0:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 127.0.0.1:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => localhost:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+
+
+
+[2024-08-27 21:42:53]
+Binding => 0.0.0.0:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 127.0.0.1:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => localhost:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+
+
+
+[2024-08-27 21:42:53]
+Binding => 0.0.0.0:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => 127.0.0.1:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+Binding => localhost:80
+Server {
+    root_path: "./",
+    buffer_size: 10240,
+    gzip_level: 5,
+    log_dir_path: "./logs",
+    empty_path_try_files_path: "./index.html",
+    response_header_list: [
+        "Access-Control-Allow-Origin: *\r\nAccess-Control-Allow-Methods: *\r\nAccess-Control-Allow-Headers: *\r\nAccess-Control-Allow-Credentials: true\r\nConnection: keep-alive\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nServer: RUST-WEB-SERVER",
+    ],
+    proxy: [
+        "",
+    ],
+    proxy_timeout_seconds: 10,
+    hotlink_protection: [
+        "",
+    ],
+}
+
+
+
+[2024-08-27 21:42:53]
+Listening => 0.0.0.0:80
+
+
+[2024-08-27 21:42:53]
+Binding => 0.0.0.0:80
+
+
+[2024-08-27 21:42:53]
+Binding => 127.0.0.1:80
+
+
+[2024-08-27 21:42:53]
+Binding => localhost:80
+
+
+[2024-08-27 21:42:58]
+HttpRequest {
+    path: "/index.html",
+    method: "GET",
+    headers: {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "document",
+        "cache-control": "max-age=0",
+        "connection": "keep-alive",
+        "sec-fetch-site": "none",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-user": "?1",
+        "sec-fetch-mode": "navigate",
+        "cookie": "SameSite=Lax",
+        "host": "localhost",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "sec-ch-ua-mobile": "?0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+    },
+    body: {},
+}
+
+[2024-08-27 21:42:58]
+Refuse load file => ./index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:42:58]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:42:58]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:42:58]
+Resource load fail => ./index.html
+
+
+[2024-08-27 21:43:11]
+HttpRequest {
+    path: "/index.html",
+    method: "GET",
+    headers: {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "sec-ch-ua-mobile": "?0",
+        "upgrade-insecure-requests": "1",
+        "cookie": "SameSite=Lax",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "host": "localhost",
+        "cache-control": "max-age=0",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-user": "?1",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-dest": "document",
+        "connection": "keep-alive",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "sec-fetch-site": "none",
+    },
+    body: {},
+}
+
+[2024-08-27 21:43:11]
+Refuse load file => ./index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:43:11]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:43:11]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:43:11]
+Resource load fail => ./index.html
+
+
+[2024-08-27 21:43:16]
+HttpRequest {
+    path: "/",
+    method: "GET",
+    headers: {
+        "host": "localhost",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "upgrade-insecure-requests": "1",
+        "sec-fetch-user": "?1",
+        "sec-fetch-site": "none",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "sec-ch-ua-mobile": "?0",
+        "connection": "keep-alive",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-dest": "document",
+        "cookie": "SameSite=Lax",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "sec-fetch-mode": "navigate",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+    },
+    body: {},
+}
+
+[2024-08-27 21:43:16]
+Refuse load file => ./index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:43:16]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:43:16]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:43:16]
+Resource load fail => ./index.html
+
+
+[2024-08-27 21:43:22]
+HttpRequest {
+    path: "/",
+    method: "GET",
+    headers: {
+        "sec-fetch-user": "?1",
+        "sec-ch-ua-mobile": "?0",
+        "sec-fetch-site": "none",
+        "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Microsoft Edge\";v=\"128\"",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "sec-fetch-mode": "navigate",
+        "upgrade-insecure-requests": "1",
+        "cache-control": "max-age=0",
+        "connection": "keep-alive",
+        "cookie": "SameSite=Lax",
+        "sec-fetch-dest": "document",
+        "host": "localhost",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "sec-ch-ua-platform": "\"Windows\"",
+    },
+    body: {},
+}
+
+[2024-08-27 21:43:22]
+Refuse load file => ./index.html
+Error => Matched to hotlink protection
+
+
+[2024-08-27 21:43:22]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:43:22]
+Resource load success => ./index.html
+
+
+[2024-08-27 21:43:22]
+Resource load fail => ./index.html
+
+

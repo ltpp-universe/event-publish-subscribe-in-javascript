@@ -1,2 +1,2 @@
-"use strict";var t=new(function(){function t(){this.event_map=new Map}return t.prototype.add=function(t,e){void 0===e&&(e=function(){});var n=this.event_map.get(t);(null==n?void 0:n.length)?n.push(e):this.event_map.set(t,[e])},t}());exports.event_listener=t;
+"use strict";var e=new(function(){function e(){this.event_map=new Map}return e.prototype.add=function(e,t){void 0===t&&(t=function(){});var n=this.event_map.get(e)||[];n.push(t),this.event_map.set(e,n),window.addEventListener(e,t)},e.prototype.remove=function(e,t){void 0===t&&(t=function(){});var n=this.event_map.get(e)||[];if(null==n?void 0:n.length)for(var i=(null==n?void 0:n.length)||0,o=0;o<i;++o)n[o]==t&&window.removeEventListener(e,t)},e}());exports.event_listener=e;
 //# sourceMappingURL=bundle.cjs.js.map

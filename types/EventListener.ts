@@ -1,1 +1,1 @@
-type EventMap = Map<string, Array<Function>>;
+type EventMap = Map<string, Array<EventListener>>;

@@ -1,2 +1,2 @@
-var t=new(function(){function t(){this.event_map=new Map}return t.prototype.add=function(t,n){void 0===n&&(n=function(){});var e=this.event_map.get(t);(null==e?void 0:e.length)?e.push(n):this.event_map.set(t,[n])},t}());export{t as event_listener};
+var e=new(function(){function e(){this.event_map=new Map}return e.prototype.add=function(e,n){void 0===n&&(n=function(){});var t=this.event_map.get(e)||[];t.push(n),this.event_map.set(e,t),window.addEventListener(e,n)},e.prototype.remove=function(e,n){void 0===n&&(n=function(){});var t=this.event_map.get(e)||[];if(null==t?void 0:t.length)for(var o=(null==t?void 0:t.length)||0,i=0;i<o;++i)t[i]==n&&window.removeEventListener(e,n)},e}());export{e as event_listener};
 //# sourceMappingURL=bundle.esm.js.map
