@@ -14,7 +14,7 @@
     "Publish-Subscribe",
     "JavaScript"
   ],
-  "author": "ltpp-universe",
+  "author": "ltpp-universe-npm",
   "license": "ISC",
   "description": "Event Publish-Subscribe in JavaScript",
   "devDependencies": {
