@@ -4,7 +4,7 @@
     "outDir": "./build", // 输出目录
     "lib": ["es2015", "dom"], // 包含 es2015 库
     "module": "ES2015", // 使用的模块系统
-    "target": "es5", // 编译成的目标 ECMAScript 版本
+    "target": "es2015", // 编译成的目标 ECMAScript 版本
     "declaration": true, // 是否自动生成声明文件
     "declarationDir": "./build", // 设置生成的声明文件存放目录
     "declarationMap": true, // 对每个 .d.ts 文件，都生成对应的 .d.ts.map（sourcemap）文件

@@ -19,6 +19,17 @@ class EventManager {
       }
     }
   }
+  list(name: string) {
+    const func_list = this.event_map.get(name) || [];
+    return func_list;
+  }
+  listAll() {
+    let res = new Map();
+    for (var [event, func_list] of this.event_map) {
+      res.set(event, func_list);
+    }
+    return res;
+  }
 }
 
 export const event_listener = new EventManager();

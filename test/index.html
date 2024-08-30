@@ -10,12 +10,22 @@
     const fn = () => {
       console.log(1);
     };
+    // Registration Click Event
     event_listener.add('click', fn);
+    // Registration Click Event
     event_listener.add('click', () => {
       console.log(2);
     });
+    // Registration Click Event
     event_listener.add('click', fn);
+    // Cancel registration click event
     event_listener.remove('click', fn);
+    // View the list of click events
+    console.log(event_listener.list('click'));
+    // View the floating event list
+    console.log(event_listener.list('hover'));
+    // View all event lists
+    console.log(event_listener.listAll());
   </script>
 
   <body></body>
