@@ -1,5 +1,5 @@
 {
-  "name": "event-publish-subscribe-in-javascript",
+  "name": "ltpp-event-publish-subscribe-in-javascript",
   "type": "module",
   "version": "1.0.0",
   "main": "./build/bundle.cjs.js",
