@@ -5,7 +5,7 @@
   "main": "./build/bundle.cjs.js",
   "module": "./build/bundle.esm.js",
   "browser": "./build/bundle.umd.js",
-  "types": "./build/types/index.d.ts",
+  "types": "./build/types/EventListener.d.ts",
   "scripts": {
     "build": "rollup -c ./rollup.config.ts --bundleConfigAsCjs"
   },

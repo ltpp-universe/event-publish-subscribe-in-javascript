@@ -1,0 +1,19 @@
+{
+  "name": "event-publish-subscribe-in-javascript",
+  "type": "module",
+  "version": "1.0.1",
+  "main": "./bundle.cjs.js",
+  "module": "./bundle.esm.js",
+  "browser": "./bundle.umd.js",
+  "types": "./types/EventListener.d.ts",
+  "scripts": {},
+  "keywords": [
+    "Event",
+    "Publish-Subscribe",
+    "JavaScript"
+  ],
+  "author": "ltpp-universe",
+  "license": "ISC",
+  "description": "Event Publish-Subscribe in JavaScript",
+  "devDependencies": {}
+}
